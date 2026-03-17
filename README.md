@@ -66,13 +66,12 @@ The boxplot highlights seasonal variability in fire intensity, with higher FRP v
 
 ## Repository Structure
 - **notebooks/**
-  - **preprocessing/**
-    – fire data preprocessing and dataset construction
-  - **modeling/**
-    – machine learning model implementation and evaluation
+  - **preprocessing/** – data preprocessing and dataset construction
+  - **modeling/** – machine learning model implementation and evaluation
 
-- **data/**
-  - documentation for datasets used in the project
+- **data/** - dataset documentation and source references
+
+- **figures/** - key visualizations and result summaries
 
 ---
 
